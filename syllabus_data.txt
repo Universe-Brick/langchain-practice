@@ -1,0 +1,318 @@
+Grading:
+方法	百分比%
+方法	百分比%
+出席 Participation	30	小組報告 Group Projects	40	作業 Assignments	30
+出席 Participation	30
+小組報告 Group Projects	40
+作業 Assignments	30
+
+Teaching Strategies:
+方法	百分比%
+方法	百分比%
+討論 Discussion	30
+報告 Presentation	40
+個案研討 Case study	30
+
+Syllabus Progress:
+	進度說明 Progress Description
+	進度說明 Progress Description
+1	Course Introduction
+2	Introduction to AI and Governance
+3	專業社群
+4	推力
+5	創新與採購
+6	Case Study - Education
+7	Case Study - AI predictive modeling
+8	校際活動日(停課)
+9	Case Study - Predictive Policing
+10	Case Study - GAI Applications
+11	Project Workshop
+12	Project Workshop
+13	Project Workshop
+14	Project Workshop
+15	Project Workshop
+16	Final Presentation
+17	端午節放假
+18	Final Paper
+Grading:
+方法	百分比%
+方法	百分比%
+期中考 Midterm Exam	40	作業 Assignments	20	個人口頭報告 Presentations	40
+期中考 Midterm Exam	40
+作業 Assignments	20
+個人口頭報告 Presentations	40
+
+Teaching Strategies:
+方法	百分比%
+方法	百分比%
+講授 Lecture	100
+
+Syllabus Progress:
+	進度說明 Progress Description
+	進度說明 Progress Description
+1	Overview
+2	Machine learning: Regression
+3	Machine learning: Gradient Descent
+4	Machine learning: Classification
+5	Machine learning: Introduction of Deep Learning
+6	Machine learning: Backpropagation
+7	Machine learning: Artificial Neural Networks (I)
+8	Machine learning: Artificial Neural Networks (II)
+9	Midterm
+10	Memory: Introduction of Volatile and Non-volatile Memory Technologies
+11	Volatile Memory: SRAM and DRAM
+12	Non-volatile Memory: Floating-gate Memory (NOR and NAND Flash)
+13	Emerging Memory: RRAM、PCM
+14	Emerging Memory: FeRAM、MRAM
+15	Computing-in-Memory (I)
+16	Computing-in-Memory (II)
+17	Neuromorphic Computing
+18	Final presentation
+Grading:
+方法	百分比%
+方法	百分比%
+其他 others:問題考試	50	其他 others:實作產品	50
+其他 others:問題考試	50
+其他 others:實作產品	50
+
+Teaching Strategies:
+方法	百分比%
+方法	百分比%
+講授 Lecture	60
+實作 Workshop	40
+
+Syllabus Progress:
+	進度說明 Progress Description
+	進度說明 Progress Description
+1	Advanced Python/課程說明
+2	Data structure / Project bidding
+3	Data structure / Project bidding
+4	Database / Project bidding
+5	Algorithm
+6	Algorithm
+7	No Class
+8	Algorithm
+9	Midterm report/check point
+10	Machine learning & deep learning
+11	Machine learning & deep learning
+12	Machine learning & deep learning
+13	Final Project Discussion
+14	Final Project Discussion
+15	Final Project Discussion
+16	Final Project Discussion
+17	Final Project Presentation
+18	No class
+Grading:
+方法	百分比%
+方法	百分比%
+平時測驗 Quizzes	50	小組報告 Group Projects	50
+平時測驗 Quizzes	50
+小組報告 Group Projects	50
+
+Teaching Strategies:
+方法	百分比%
+方法	百分比%
+講授 Lecture	100
+
+Syllabus Progress:
+	進度說明 Progress Description
+	進度說明 Progress Description
+1	Overview
+2	Neuromorphic Computing
+3	Biological Neurons
+4	Basics of Electronic Devices / MOSFETs
+5	Artificial Neuron Simulation (In-class practice)
+6	Electronic Neurons
+7	Electronic Neurons - Emerging memories devices / integration (Prof. Sayani)
+8	Networks of Neurons
+9	Assignment Presentation
+10	Learning
+11	Electronic Synapses - Emerging memories devices / integration (Prof. Sayani)
+12	Brain Structure / Functions
+13	Biological Memory
+14	Computer Memory - Volatile Memory (SRAM and DRAM)
+15	Computer Memory - Non-Volatile Memory (NOR and NAND Flash)
+16	Computer Memory - Emerging Memory (PCM, RRAM, FeRAM and MRAM)
+17	Neuromorphic Computing applications - In-sensor computing (Prof. Sayani)
+18	Final Presentation
+Grading:
+方法	百分比%
+方法	百分比%
+期中考 Midterm Exam	40	期末考 Term exam	40	作業 Assignments	20
+期中考 Midterm Exam	40
+期末考 Term exam	40
+作業 Assignments	20
+
+Teaching Strategies:
+方法	百分比%
+方法	百分比%
+講授 Lecture	80
+討論 Discussion	20
+
+Syllabus Progress:
+	進度說明 Progress Description
+	進度說明 Progress Description
+1	Introduction
+2	Fundamental of Electric Circuits
+3	Fundamental of Electric Circuits
+4	Resistive Circuits
+5	Resistive Circuits
+6	Capacitance and Inductance
+7	Capacitance and Inductance
+8	Transient Analysis
+9	Transient Analysis/Exam
+10	Steady-State AC Analysis
+11	Steady-State AC Analysis
+12	Steady-State AC Analysis
+13	Frequency Analysis
+14	Frequency Analysis
+15	Electronic Circuits
+16	Electronic Circuits
+17	Other Topics
+18	Exam
+Grading:
+方法	百分比%
+方法	百分比%
+作業 Assignments	20	小組報告 Group Projects	60	個人書面報告 Projects	10	其他 others:出席及課堂參與	10
+作業 Assignments	20
+小組報告 Group Projects	60
+個人書面報告 Projects	10
+其他 others:出席及課堂參與	10
+
+Teaching Strategies:
+方法	百分比%
+方法	百分比%
+講授 Lecture	30
+討論 Discussion	10
+個案研討 Case study	10
+實作 Workshop	30
+報告 Presentation	20
+
+Syllabus Progress:
+	進度說明 Progress Description
+	進度說明 Progress Description
+1	2/22 課程介紹與進度說明、破冰及分組
+2	2/29 工程契約法概說
+3	3/07 社會科學程式設計導論(一)
+4	3/14 社會科學程式設計導論(二)
+5	3/21 工程契約法爭議導讀(一)
+6	3/28 工程契約法爭議導讀(二)
+7	4/04 民族掃墓節，停課一次 / 專題方向線上諮詢
+8	4/11 程式設計演練(一)
+9	4/18 工程爭議類型與工程判決解析(一)
+10	4/25 工程爭議類型與工程判決解析(二)
+11	5/02 專家協同教學:專題演講-常見工程契約爭議實務與紛爭解決
+12	5/09 程式設計演練(二)
+13	5/16 分組期中報告、專題研究設計諮詢
+14	5/23 專家協同教學:專題演講-人工智慧技術與法律科技應用
+15	5/25(六) 期末專題實作工作坊-程式設計習作(一)
+16	5/25(六) 期末專題實作工作坊-程式設計習作(二)
+17	5/25(六) 期末專題實作工作坊-程式設計習作(三)
+18	5/30 專題實作成果檢討與修正、課程反思與回饋、開放知識共寫維基
+6/02(日) 期末聯合成果發表會
+Grading:
+方法	百分比%
+方法	百分比%
+期中考 Midterm Exam	40	作業 Assignments	30	小組報告 Group Projects	30
+期中考 Midterm Exam	40
+作業 Assignments	30
+小組報告 Group Projects	30
+
+Teaching Strategies:
+方法	百分比%
+方法	百分比%
+講授 Lecture	55
+實作 Workshop	10
+報告 Presentation	35
+
+Syllabus Progress:
+	進度說明 Progress Description
+	進度說明 Progress Description
+1	Introduction and Prerequisites Review
+2	Calculus: Single and Multivariable Calculus
+3	Calculus: Single and Multivariable Calculus
+4	Linear Algebra: Eigenvalues and Eigenvectors
+5	Linear Algebra: Eigenvalues and Eigenvectors
+6	Linear Algebra: Solutions of Equations
+7	Spring Vacation
+8	Linear Algebra: Solutions of Equations
+9	Midterm
+10	Numerical Computation: Optimization Problems
+11	Numerical Computation: Optimization Problems
+12	Artificial Intelligence: Machine Learning
+13	Artificial Intelligence: Machine Learning
+14	Artificial Intelligence: Machine Learning
+15	Artificial Intelligence: Machine Learning
+16	Project based learning
+17	Project based learning
+18	Final Presentation / Exhibition
+Grading:
+方法	百分比%
+方法	百分比%
+作業 Assignments	60	個人書面報告 Projects	40
+作業 Assignments	60
+個人書面報告 Projects	40
+
+Teaching Strategies:
+方法	百分比%
+方法	百分比%
+講授 Lecture	90
+討論 Discussion	10
+
+Syllabus Progress:
+	進度說明 Progress Description
+	進度說明 Progress Description
+1	Introduction
+2	Statistical Learning
+3	Linear Regression
+4	Linear Regression
+5	Linear Regression
+6	Linear Regression
+7	Classification
+8	Classification
+9	Classification
+10	Classification
+11	Resampling Methods
+12	Resampling Methods
+13	Linear Model Selection and Regularization
+14	Linear Model Selection and Regularization
+15	Linear Model Selection and Regularization
+16	Tree-Based Methods
+17	Tree-Based Methods
+18	Tree-Based Methods
+Grading:
+方法	百分比%
+方法	百分比%
+出席 Participation	30	小組報告 Group Projects	40	作業 Assignments	30
+出席 Participation	30
+小組報告 Group Projects	40
+作業 Assignments	30
+
+Teaching Strategies:
+方法	百分比%
+方法	百分比%
+討論 Discussion	30
+報告 Presentation	40
+個案研討 Case study	30
+
+Syllabus Progress:
+	進度說明 Progress Description
+	進度說明 Progress Description
+1	Course Introduction
+2	Introduction to AI and Governance
+3	專業社群
+4	推力
+5	創新與採購
+6	Case Study - Education
+7	Case Study - AI predictive modeling
+8	校際活動日(停課)
+9	Case Study - Predictive Policing
+10	Case Study - GAI Applications
+11	Project Workshop
+12	Project Workshop
+13	Project Workshop
+14	Project Workshop
+15	Project Workshop
+16	Final Presentation
+17	端午節放假
+18	Final Paper
