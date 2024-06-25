@@ -1,124 +1,150 @@
+統計學（二）
+Grading
+方法,百分比%
+方法,百分比%
+作業 Assignments,10,期中考 Midterm Exam,20,期中考 Midterm Exam,30,期末考 Term exam,40
+作業 Assignments,10
+期中考 Midterm Exam,20
+期中考 Midterm Exam,30
+期末考 Term exam,40
+
+Teaching Strategies
+方法,百分比%
+方法,百分比%
+講授 Lecture,100
+
+Syllabus Progress
+,進度說明 Progress Description
+,進度說明 Progress Description
+1,Review Chapters 1-8
+2,Review Chapters 1-8 & Tests of Hypotheses-1
+3,Tests of Hypotheses- 2 and Review test
+4,Inference two population means and proportions -1
+5,Inference two population means and proportions -2
+6,Reviews and Test 1
+7,Inference one and two population variances
+8,Categorical Data Analysis
+9,Design of Experiments & Analysis of Variance.-1
+10,Design of Experiments & Analysis of Variance.-2
+11,Reviews
+12,Reviews and test 2
+13,Simple Linear Regression -1
+14,Simple Linear Regression -2
+15,Multiple Regression -1
+16,Multiple Regression -2
+17,Reviews
+18,Final Exam
+
+計算機概論
+Grading
+方法,百分比%
+方法,百分比%
+其他 others:教師課堂公佈,100
+其他 others:教師課堂公佈,100
+
+Teaching Strategies
+方法,百分比%
+方法,百分比%
+講授 Lecture,40
+其他:期中期末考試 others,20
+其他:作業 others,20
+其他:上機程式 others,20
+
+Syllabus Progress
+,進度說明 Progress Description
+,進度說明 Progress Description
+1,簡介計算機與資訊網路
+2,各種電腦裝置
+3,資料儲存(1)
+4,資料儲存(2)
+5,資料處理(1)
+6,資料處理(2)
+7,作業系統
+8,期中考
+9,檔案系統(2)
+10,網路通訊與網際網路
+11,程式語言簡介
+12,Python: Expressions
+13,Python: Conditionals
+14,Python: Functions
+15,Python: Iterations
+16,Python: Packages
+17,期末考
+18,期末專題報告
+
+微積分（二）
+Grading
+方法,百分比%
+方法,百分比%
+期中考 Midterm Exam,30,期末考 Term exam,30,平時測驗 Quizzes,30,作業 Assignments,10
+期中考 Midterm Exam,30
+期末考 Term exam,30
+平時測驗 Quizzes,30
+作業 Assignments,10
+
+Teaching Strategies
+方法,百分比%
+方法,百分比%
+講授 Lecture,100
+
+Syllabus Progress
+,進度說明 Progress Description
+,進度說明 Progress Description
+1,Parametric Equations and Polar Coordinates
+2,Sequences; Indeterminate Forms; Improper Integrals
+3,Sequences; Indeterminate Forms; Improper Integrals
+4,Infinite Series
+5,Infinite Series
+6,Infinite Series
+7,Vector in Three-dimensional Space; Vector Calculus
+8,Spring Break
+9,Midterm Exam
+10,Functions of Three Variables
+11,Functions of Three Variables
+12,Gradients; Extreme Values; Differentials
+13,Gradients; Extreme Values; Differentials
+14,Double and Triple Integrals
+15,Double and Triple Integrals
+16,Lineal Integrals and Surface Integrals
+17,Lineal Integrals and Surface Integrals
+18,Final Exam
+
 經濟學（二）
 Grading
 方法,百分比%
 方法,百分比%
-期中考 Midterm Exam,28,期末考 Term exam,26,平時測驗 Quizzes,24,作業 Assignments,10,出席 Participation,8,其他 others:心得報告,4
-期中考 Midterm Exam,28
-期末考 Term exam,26
-平時測驗 Quizzes,24
-作業 Assignments,10
-出席 Participation,8
-其他 others:心得報告,4
+平時測驗 Quizzes,25,期中考 Midterm Exam,35,期末考 Term exam,40
+平時測驗 Quizzes,25
+期中考 Midterm Exam,35
+期末考 Term exam,40
 
 Teaching Strategies
 方法,百分比%
 方法,百分比%
 講授 Lecture,80
-實作 Workshop,10
-影音欣賞 Video/music appreciation,10
+討論 Discussion,20
 
 Syllabus Progress
 ,進度說明 Progress Description
 ,進度說明 Progress Description
-1,總體經濟學介紹及導論　The Introduction to Macroeconomics　（Ch. 16)
-2,外部性暨公共財 Externalities and Public Goods (Chs. 11 & 14)
-3,國民所得的定義與計算 Measuring National Income (GDP/GNP)(Ch. 17)
-4,經濟成長與生產力的計算 Measuring Economic Growth and productivity　(Chs. 17 & 19)
-5,物價水準與通貨膨脹 Price Level and Inflation (Ch.18)
-6,就業與失業結構　Monitoring Jobs and Unemployment (Chs. 20 & 24)
-7,所得分配暨勞動市場 Income Distribution and Labor Market (Chs. 13 & 20)
-8,經濟波動與景氣循環  Economic Fluctuations and Business Cycles (Ch. 24)
-9,期中考 Mid-term Exam.
-10,總供給與總需求 Aggregate Supply and Aggregate Demand (Ch. 27)
-11,"凱因斯模型: 總支出、均衡所得與乘數效果  The Keynesian Model: Aggregate Expenditure,Equilibrium Income and Multiplier Effect (Ch. 25)"
-12,"認識貨幣 Money: Definition, Function and its Evolution (Ch. 22)"
-13,中央銀行暨貨幣政策與工具 Central Bank as well as Monetary Policy and Tools (Chs. 22 & 26)
-14,"金融體系、機構與金融市場 Financial System,Institutions, and Financial Market (Ch. 23)"
-15,"利率、儲蓄與資本　Interest Rate, Saving and Capital (Ch. 21)"
-16,匯率與國際金融　The Exchange Rate and International Finance　(Ch. 28)
-17,國際貿易與比較利益法則 International Trade and the Law of Comparative Advantage (Chs. 2 & 15)
-18,期末考 Final Exam.
-
-資訊管理概論
-Grading
-方法,百分比%
-方法,百分比%
-平時測驗 Quizzes,15,期中考 Midterm Exam,20,期末考 Term exam,20,小組報告 Group Projects,35,出席 Participation,10
-平時測驗 Quizzes,15
-期中考 Midterm Exam,20
-期末考 Term exam,20
-小組報告 Group Projects,35
-出席 Participation,10
-
-Teaching Strategies
-方法,百分比%
-方法,百分比%
-講授 Lecture,60
-個案研討 Case study,20
-報告 Presentation,20
-
-Syllabus Progress
-,進度說明 Progress Description
-,進度說明 Progress Description
-1,"Introduction to the course;
-What is an information system (IS);
-Foundations of IS and information technology (IT)"
-2,"IS and business processes; 
-Role of the IS in a business; 
-Information quality and process improvement"
-3,"Impact of IS on organizations; 
-Corporate competitive strategies and IS; 
-The business value chain models for strategic IS applications"
-4,"IT infrastructure; 
-Development of new hardware and software; 
-Challenges of managing IT/IS"
-5,"Group assignment and presentation I; 
-Draft of the business and system development plan"
-6,"Database processing; 
-Database management system (DBMS); 
-Data governance and quality assurance"
-7,"IS security; 
-IS control and risk management;
-Tools for ensuring IS security"
-8,Case study
-9,Midterm Exam
-10,"	Enterprise systems	The role of customer relationship management systems (CRM), supply chain management systems (SCM), and other enterprise systems"
-11,"Electronic commerce (e-commerce);
-Digital market;
-E-commerce and mobile commerce applications"
-12,"Knowledge management systems (KMS);
-Artificial intelligence (AI) and machine learning (ML);
-KMS, AI, ML, and business value"
-13,"Group assignment and presentation II;
-Strategic information system planning"
-14,"Decision support systems (DSS);
-Business intelligence (BI)"
-15,"IS implementation and organizational change;
-Overview of system analysis and design;
-System development life cycle (SDLC)	Other methods of system analysis and design"
-16,"Justification of building IS;
-Overview of IS project management (PM);
-Risk management of IS projects"
-17,Final Exam
-18,"Group assignment and presentation IIIFinal group project delivery (code, documentation, and presentation slices)"
-
-計算機程式及應用
-Grading
-方法,百分比%
-方法,百分比%
-期中考 Midterm Exam,25,期末考 Term exam,25,作業 Assignments,25,平時測驗 Quizzes,15,出席 Participation,10
-期中考 Midterm Exam,25
-期末考 Term exam,25
-作業 Assignments,25
-平時測驗 Quizzes,15
-出席 Participation,10
-
-Teaching Strategies
-方法,百分比%
-方法,百分比%
-講授 Lecture,50
-其他:homework others,30
-其他:exams others,20
+1,課程介紹
+2,第23章: 一國國民所得的衡量
+3,第24章: 生活成本的衡量
+4,第26章: 儲蓄、投資與金融體系
+5,第29章: 貨幣體系
+6,第29章: 貨幣體系
+7,民族掃墓節停課一次
+8,第30章: 貨幣供給成長與物價膨脹
+9,第31章: 開放經濟體的總體經濟分析的基本觀念
+10,期中考試
+11,第32章: 開放經濟體的總體經濟理論
+12,第32章: 開放經濟體的總體經濟理論
+13,第33章: 總合需求與總合供給
+14,第33章: 總合需求與總合供給
+15,第34章: 貨幣與財政政策對總合需求的影響
+16,第34章: 貨幣與財政政策對總合需求的影響
+17,第35章: 通膨與失業在短期的權衡取捨
+18,期末考試
 
 服務學習（二）
 Grading
@@ -135,72 +161,34 @@ Teaching Strategies
 Syllabus Progress
 ,進度說明 Progress Description
 ,進度說明 Progress Description
-1,系館周遭環境清潔
-2,系館周遭環境清潔
-3,系館周遭環境清潔
-4,系館周遭環境清潔
-5,系館周遭環境清潔
-6,系館周遭環境清潔
-7,系館周遭環境清潔
-8,系館周遭環境清潔
-9,系館周遭環境清潔
-10,系館周遭環境清潔
-11,系館周遭環境清潔
-12,系館周遭環境清潔
-13,系館周遭環境清潔
-14,系館周遭環境清潔
-15,系館周遭環境清潔
-16,系館周遭環境清潔
-17,系館周遭環境清潔
-18,系館周遭環境清潔
+1,系館環境清潔服務
+2,系館環境清潔服務
+3,系館環境清潔服務
+4,系館環境清潔服務
+5,系館環境清潔服務
+6,系館環境清潔服務
+7,系館環境清潔服務
+8,系館環境清潔服務
+9,系館環境清潔服務
+10,系館環境清潔服務
+11,系館環境清潔服務
+12,系館環境清潔服務
+13,系館環境清潔服務
+14,系館環境清潔服務
+15,系館環境清潔服務
+16,系館環境清潔服務
+17,系館環境清潔服務
+18,系館環境清潔服務
 
-微積分（二）
+數理統計（一）
 Grading
 方法,百分比%
 方法,百分比%
-平時測驗 Quizzes,30,期中考 Midterm Exam,40,期末考 Term exam,30
-平時測驗 Quizzes,30
-期中考 Midterm Exam,40
-期末考 Term exam,30
-
-Teaching Strategies
-方法,百分比%
-方法,百分比%
-講授 Lecture,75
-討論 Discussion,25
-
-Syllabus Progress
-,進度說明 Progress Description
-,進度說明 Progress Description
-1,Derivatives and Integrals of Trigonometric Functions
-2,Sequence and Series
-3,Series and Convergence
-4,Power Series and Taylor’s Theorem
-5,Taylor Polynomials
-6,1st Midterm
-7,Probability and Calculus
-8,Discrete and Continuous Random Variables
-9,Expected Value and Variance
-10,1st Order Differential Equations
-11,Functions of Several Variables
-12,2nd Midterm
-13,Partial Derivatives and Relative Extrema for Functions of Several Variables
-14,Optimization Problem and Lagrange Multiplier Method
-15,Double Integrals
-16,Double Integral in Polar Coordinates and Jacobian
-17,Applications of Double Integrals
-18,Final Exam
-
-管理數學
-Grading
-方法,百分比%
-方法,百分比%
-出席 Participation,10,平時測驗 Quizzes,15,作業 Assignments,25,期中考 Midterm Exam,25,期末考 Term exam,25
-出席 Participation,10
-平時測驗 Quizzes,15
-作業 Assignments,25
-期中考 Midterm Exam,25
-期末考 Term exam,25
+期中考 Midterm Exam,35,期末考 Term exam,35,作業 Assignments,20,其他 others:Review Exams,10
+期中考 Midterm Exam,35
+期末考 Term exam,35
+作業 Assignments,20
+其他 others:Review Exams,10
 
 Teaching Strategies
 方法,百分比%
@@ -210,26 +198,368 @@ Teaching Strategies
 Syllabus Progress
 ,進度說明 Progress Description
 ,進度說明 Progress Description
-1,Straight Lines and Linear Functions.
-2,Systems Of Linear Equations and Matrice.
-3,Linear Programming: a Geometric Approach.
-4,Linear Programming: an Algebraic Approach.
-5,"Introduction to inverse, determinant and Cramer's rule"
-6,Sets And Counting.
-7,Probability.
-8,Probability Distributions and Statistics.
-9,Markov Chains and the Theory of Games.
-10,Mathematics of Finance.
+1,Expected values
+2,Expected values
+3,Expected values
+4,Univariate Distributions
+5,Univariate Distributions
+6,Univariate Distributions
+7,Univariate Distributions
+8,Multivariate Distributions
+9,Multivariate Distributions
+10,Midterm Exam
+11,Asymptotics
+12,Asymptotics
+13,Asymptotics
+14,Asymptotics
+15,Asymptotics
+16,Extimation
+17,Estimation
+18,Final Exam
 
-統計學（二）
+迴歸分析
 Grading
 方法,百分比%
 方法,百分比%
-作業 Assignments,20,期中考 Midterm Exam,40,期末考 Term exam,20,其他 others:Lab Participation,20
+作業 Assignments,25,期中考 Midterm Exam,35,期末考 Term exam,40
+作業 Assignments,25
+期中考 Midterm Exam,35
+期末考 Term exam,40
+
+Teaching Strategies
+方法,百分比%
+方法,百分比%
+講授 Lecture,80
+其他:作業與考試 Homework assignment and quizzes others,15
+討論 Discussion,5
+
+Syllabus Progress
+,進度說明 Progress Description
+,進度說明 Progress Description
+1,Review of linear regression with one predictor variable
+2,Inferences in simple linear regression
+3,Inferences in simple linear regression
+4,Inferences in simple linear regression and correlation analysis
+5,Model adequacy check
+6,Model adequacy check and some remedial measures
+7,Simultaneous inferences
+8,Simultaneous inferences and some topics in regression analysis
+9,Matrix approach to simple linear regression analysis
+10,Midterm Exam
+11,Polynomial regression
+12,Multiple regression
+13,Multiple regression
+14,Regression models for quantitative and qualitative predictors
+15,Building regression model: model selection and validation
+16,Building regression model: diagnostics and remedial measures
+17,Introduction to logistic regression model
+18,Final Exam
+
+會計學（二）
+Grading
+方法,百分比%
+方法,百分比%
+期中考 Midterm Exam,35,期末考 Term exam,35,其他 others:課堂參與及交流表現,30
+期中考 Midterm Exam,35
+期末考 Term exam,35
+其他 others:課堂參與及交流表現,30
+
+Teaching Strategies
+方法,百分比%
+方法,百分比%
+講授 Lecture,80
+個案研討 Case study,20
+
+Syllabus Progress
+,進度說明 Progress Description
+,進度說明 Progress Description
+1,"ch9. Plant Assets, Natural Resources, and Intangible Assets"
+2,"ch9. Plant Assets, Natural Resources, and Intangible Assets"
+3,Time value OF money & Ch10. Current Liabilities
+4,Ch11. Non-Current Liabilities
+5,Ch11. Non-Current Liabilities
+6,"Ch12. Corporations: Organization, Share Transactions, and Equity"
+7,"Ch12. Corporations: Organization, Share Transactions, and Equity"
+8,Ch13. Investments
+9,Mid-term exam  (CH9~CH12)
+10,Ch13. Investments
+11,Ch13. Investments
+12,Ch14. Statement of cash flows
+13,Ch14. Statement of cash flows
+14,Ch14. Statement of cash flows
+15,Ch15.Financial Statement Analysis
+16,Ch15.Financial Statement Analysis
+17,Ch15.Financial Statement Analysis
+18,Final exam(CH113~CH15)
+
+抽樣調查
+Grading
+方法,百分比%
+方法,百分比%
+期中考 Midterm Exam,35,期末考 Term exam,35,小組報告 Group Projects,10,作業 Assignments,20
+期中考 Midterm Exam,35
+期末考 Term exam,35
+小組報告 Group Projects,10
 作業 Assignments,20
+
+Teaching Strategies
+方法,百分比%
+方法,百分比%
+其他:Lecture with handouts others,80
+其他:Case study others,20
+
+Syllabus Progress
+,進度說明 Progress Description
+,進度說明 Progress Description
+1,Introduction
+2,Concepts of Sampling
+3,Probability Sampling Theory
+4,Simple Random Sampling
+5,Simple Random Sampling
+6,Sample Size and Precision
+7,Utilization of Auxiliary Information in Inference
+8,Utilization of Auxiliary Information in Inference
+9,Stratified Sampling
+10,Midterm Exam
+11,Stratified Sampling
+12,Cluster Sampling
+13,Cluster Sampling
+14,Multi-stage Sampling
+15,Multi-stage Sampling
+16,Double Sampling
+17,Case Study
+18,Final Exam
+
+統計軟體與繪圖
+Grading
+方法,百分比%
+方法,百分比%
+出席 Participation,20,作業 Assignments,40,期末考 Term exam,40
+出席 Participation,20
+作業 Assignments,40
+期末考 Term exam,40
+
+Teaching Strategies
+方法,百分比%
+方法,百分比%
+其他:Traditional teaching others,40
+其他:Lecture notes others,20
+其他:In-class exercise and discussion others,40
+
+Syllabus Progress
+,進度說明 Progress Description
+,進度說明 Progress Description
+1,"Introduction to R, basic data processing"
+2,"Introduction to R, exploratory data analysis"
+3,"Introduction to R, basic statistical methods"
+4,Introduction to SPSS (Statistical Package for the Social Sciences)
+5,Introduction to SPSS (Statistical Package for the Social Sciences)
+6,"Introduction to SAS (Statistical Analysis System, Enterprise Guide)"
+7,"Introduction to SAS (Statistical Analysis System, Enterprise Guide)"
+8,"Introduction to SAS (Statistical Analysis System, packages)"
+9,"Introduction to SAS (Statistical Analysis System, packages)"
+10,Introduction to Git and Github
+11,Writing reproducible reports in R with markdown
+12,Introduction to statistical graphics using R
+13,Introduction to statistical graphics using R
+14,Introduction to data visualization with R shiny package
+15,Introduction to data visualization with R shiny package
+16,Introduction to packages in Python
+17,Introduction to packages in Python
+18,Final Exam
+
+保險數學
+Grading
+方法,百分比%
+方法,百分比%
+其他 others:教師課堂公佈,100
+其他 others:教師課堂公佈,100
+
+Teaching Strategies
+方法,百分比%
+方法,百分比%
+講授 Lecture,80
+其他:交出作業批改或同學上台解說 others,10
+其他:請同學報告與課堂內容相關之實際業務 others,10
+
+Syllabus Progress
+,進度說明 Progress Description
+,進度說明 Progress Description
+1,Course introduction，Interest rate
+2,holiday
+3,"effective, nominal rate, discount rate"
+4,"force of interest and discount, homework discussion"
+5,"basic annuities, real examples"
+6,basic annuities
+7,basic annuities
+8,general annuities
+9,"general annuities, homework discussion"
+10,midterm
+11,general annuities
+12,student reports
+13,student reports
+14,"student reports, homework discussion"
+15,amortization method
+16,amortization method
+17,"yield rate, homework discussion"
+18,final exam
+
+生物統計
+Grading
+方法,百分比%
+方法,百分比%
+其他 others:Coursera Online Quiz/線上測驗,40,其他 others:Coursera Homework/線上課程作業完成程度,20,其他 others:Learning Portfolio Record/學習歷程記錄,40
+其他 others:Coursera Online Quiz/線上測驗,40
+其他 others:Coursera Homework/線上課程作業完成程度,20
+其他 others:Learning Portfolio Record/學習歷程記錄,40
+
+Teaching Strategies
+方法,百分比%
+方法,百分比%
+其他:Coursera Online Video 線上教學影片 others,80
+其他:Coursera Homework and Online Quiz 作業及線上測驗 others,20
+
+Syllabus Progress
+,進度說明 Progress Description
+,進度說明 Progress Description
+1,"Introduction to clinical research, observational and experimental studies"
+2,Introduction to case-control、cross-sectional、cohort studies
+3,"Introduction to experimental studies, meta-analysis"
+4,Data types : nominal categorical data、ordinal、numerical
+5,How to tell the difference : discrete and continuous variables
+6,Introduction to hypothesis testing
+7,Introduction to Type I and II errors
+8,"Introduction to parametric tests : t test, ANOVA"
+9,Introduction linear regression
+10,"Introduction to nonparametric tests : sign test, rank sums test, Mann-Whitney-U test"
+11,Comparing categorical data : contingency tables Chi-square test Fisher's exact test
+12,Introduction to sensitivity and specificity
+13,Introduction to risk and odds ratios
+14,"Introduction to Probability, Expectations, and Random Vectors"
+15,Conditional Probability and Bayes' Rule
+16,"Distributions, Likelihood Functions and Asymptotic Properties"
+17,"Confidence Intervals, Bootstrapping, and Plotting"
+18,Binomial Proportions and Logs
+
+民意調查
+Grading
+方法,百分比%
+方法,百分比%
+出席 Participation,90,個人書面報告 Projects,10
+出席 Participation,90
+個人書面報告 Projects,10
+
+Teaching Strategies
+方法,百分比%
+方法,百分比%
+其他:Coursera Online Video 線上教學影片 others,80
+其他:Coursera Homework and Online Quiz 作業及線上測驗 others,20
+
+Syllabus Progress
+,進度說明 Progress Description
+,進度說明 Progress Description
+1,Research Designs and Data Sources
+2,Measurements and Analysis Plan
+3,Quality Framework
+4,Application of TSE Framework to Existing Surveys
+5,Overview of Standardized Interviewing
+6,Response Process
+7,Asking Factual Questions
+8,Asking Factual Questions
+9,Measuring Attitudes
+10,Measuring Attitudes
+11,"Introduction, Classic Modes of Survey Data Collection"
+12,"Introduction, Classic Modes of Survey Data Collection"
+13,"Self-administration, Online Data Collection"
+14,"Self-administration, Online Data Collection"
+15,"Self-administration, Online Data Collection"
+16,Interviewers and Interviewing
+17,Interviewers and Interviewing
+18,"Emerging modes, new data sources"
+
+多變量分析
+Grading
+方法,百分比%
+方法,百分比%
+作業 Assignments,30,期中考 Midterm Exam,40,其他 others:期末報告,30
+作業 Assignments,30
 期中考 Midterm Exam,40
-期末考 Term exam,20
-其他 others:Lab Participation,20
+其他 others:期末報告,30
+
+Teaching Strategies
+方法,百分比%
+方法,百分比%
+講授 Lecture,100
+
+Syllabus Progress
+,進度說明 Progress Description
+,進度說明 Progress Description
+1,Introduction
+2,Moving to Higher Dimensions
+3,Multivariate Distributions
+4,Multivariate Distributions
+5,Theory of the Multinormal
+6,Hypothesis Testing
+7,Regression Models
+8,Variable Selection
+9,Midterm Exam
+10,Principal Components Analysis
+11,Principal Components Analysis
+12,Factor Analysis
+13,Correspondence Analysis
+14,Cluster Analysis
+15,Discriminant Analysis
+16,Correspondence Analysis
+17,Canonical Correlation Analysis
+18,Final Exam
+
+類別資料分析
+Grading
+方法,百分比%
+方法,百分比%
+出席 Participation,5,期中考 Midterm Exam,25,期中考 Midterm Exam,25,小組報告 Group Projects,20,作業 Assignments,25
+出席 Participation,5
+期中考 Midterm Exam,25
+期中考 Midterm Exam,25
+小組報告 Group Projects,20
+作業 Assignments,25
+
+Teaching Strategies
+方法,百分比%
+方法,百分比%
+講授 Lecture,90
+報告 Presentation,10
+
+Syllabus Progress
+,進度說明 Progress Description
+,進度說明 Progress Description
+1,Introduction
+2,Sampling Models
+3,Two-way Contingency Tables
+4,The Odds Ratio
+5,Three-way Contingency Tables
+6,Cochran-Mantel-Haenszel Methods
+7,Midterm Exam 1
+8,Generalized Linear Model for Binary Data
+9,Generalized Linear Model for Count Data
+10,Logistic Regression Models
+11,Multiple Logistic Regression
+12,Midterm Exam 2
+13,Loglinear Models for Contingency Tables
+14,Inference for Loglinear Models
+15,Building and Applying Logit and Loglinear Models
+16,Tests of Conditional Independence
+17,Multicategory Logit Models
+18,Final Report
+
+機器學習
+Grading
+方法,百分比%
+方法,百分比%
+作業 Assignments,60,個人口頭報告 Presentations,10,個人書面報告 Projects,30
+作業 Assignments,60
+個人口頭報告 Presentations,10
+個人書面報告 Projects,30
 
 Teaching Strategies
 方法,百分比%
@@ -241,73 +571,33 @@ Teaching Strategies
 Syllabus Progress
 ,進度說明 Progress Description
 ,進度說明 Progress Description
-1,Review of probability
-2,Review of probability
-3,Review of hypothesis testing
-4,Inferences about population variances
-5,Independent and goodness-of-fit tests
-6,Midterm Exam
-7,Analysis of variance
-8,Analysis of variance
-9,Analysis of variance
-10,Simple linear regression
-11,Simple linear regression
-12,Midterm Exam
-13,Multiple regression
-14,Multiple regression
-15,Regression analysis
-16,Regression analysis
-17,Nonparametric methods (may not be covered in this semester)
-18,Final Exam
+1,Introduction & Statistical Learning
+2,Linear Regression
+3,Linear Regression
+4,Classification
+5,Classification
+6,Resampling Methods
+7,Resampling Methods
+8,Linear Model Selection and Regularization
+9,Linear Model Selection and Regularization
+10,Moving Beyond Linearity
+11,Moving Beyond Linearity
+12,Tree-Based Methods
+13,Tree-Based Methods
+14,Tree-Based Methods
+15,Deep Learning
+16,Deep Learning
+17,Unsupervised Learning
+18,Unsupervised Learning
 
-資料庫管理
+財務統計
 Grading
 方法,百分比%
 方法,百分比%
-作業 Assignments,30,期中考 Midterm Exam,30,期末考 Term exam,25,個人書面報告 Projects,15
+作業 Assignments,30,期中考 Midterm Exam,35,個人口頭報告 Presentations,35
 作業 Assignments,30
-期中考 Midterm Exam,30
-期末考 Term exam,25
-個人書面報告 Projects,15
-
-Teaching Strategies
-方法,百分比%
-方法,百分比%
-講授 Lecture,75
-實作 Workshop,25
-
-Syllabus Progress
-,進度說明 Progress Description
-,進度說明 Progress Description
-1,Introduction to databases
-2,Introduction to databases
-3,Entity-relationship modeling
-4,Database analysis
-5,Database analysis
-6,Relational database design
-7,Relational database design
-8,Relational database design
-9,Relational database design
-10,Physical database design
-11,Physical database design
-12,Physical database design
-13,Physical database design
-14,Structure query language (SQL)
-15,Structure query language (SQL)
-16,Structure query language (SQL)
-17,Adminstration
-18,Adminstration
-
-作業研究
-企業通訊網路
-Grading
-方法,百分比%
-方法,百分比%
-期中考 Midterm Exam,50,期末考 Term exam,25,平時測驗 Quizzes,20,其他 others:wiring,5
-期中考 Midterm Exam,50
-期末考 Term exam,25
-平時測驗 Quizzes,20
-其他 others:wiring,5
+期中考 Midterm Exam,35
+個人口頭報告 Presentations,35
 
 Teaching Strategies
 方法,百分比%
@@ -317,264 +607,367 @@ Teaching Strategies
 Syllabus Progress
 ,進度說明 Progress Description
 ,進度說明 Progress Description
-1,Introduction Ch1
-2,"Ch2, Ch3"
-3,"Ch5, Ch6"
-4,Ch7 ~ Ch8
-5,Ch9 ~ Ch10 Review
-6,Mid Exam 1
-7,Ch12
-8,Ch 13 ~ Ch14
-9,Ch15 ~ Ch17
-10,Ch 18
-11,Ch 19 ~ Ch 20  Review
-12,Mid Exam 2    Ch 21
-13,"Ch 22, Ch 23"
-14,Ch25
-15,"Ch 26, Ch 27"
-16,Ch 28
-17,Ch 29 &  Review
+1,Introdiction/Probability
+2,Fixed Income Securities
+3,Yield to Maturity
+4,Exploratory Data
+5,Returns
+6,Modeling Univariate Data
+7,Time Sereis Model
+8,Vacation
+9,Modeling Time Series Process
+10,Modeling Time Series Process
+11,GARCH model
+12,Copula
+13,Copula
+14,Cointegration
+15,Portfolio Selection
+16,Portfolio Selection
+17,Portfolio Selection
+18,Final Report
+
+統計調查實務
+Grading
+方法,百分比%
+方法,百分比%
+其他 others:實習時數及電訪/面訪實務表現,100
+其他 others:實習時數及電訪/面訪實務表現,100
+
+Teaching Strategies
+方法,百分比%
+方法,百分比%
+實作 Workshop,100
+
+Syllabus Progress
+,進度說明 Progress Description
+,進度說明 Progress Description
+1,至本系調查統計研究室進行實務實習
+2,至本系調查統計研究室進行實務實習
+3,至本系調查統計研究室進行實務實習
+4,至本系調查統計研究室進行實務實習
+5,至本系調查統計研究室進行實務實習
+6,至本系調查統計研究室進行實務實習
+7,至本系調查統計研究室進行實務實習
+8,至本系調查統計研究室進行實務實習
+9,至本系調查統計研究室進行實務實習
+10,至本系調查統計研究室進行實務實習
+11,至本系調查統計研究室進行實務實習
+12,至本系調查統計研究室進行實務實習
+13,至本系調查統計研究室進行實務實習
+14,至本系調查統計研究室進行實務實習
+15,至本系調查統計研究室進行實務實習
+16,至本系調查統計研究室進行實務實習
+17,至本系調查統計研究室進行實務實習
+18,至本系調查統計研究室進行實務實習
+
+商事法
+Grading
+方法,百分比%
+方法,百分比%
+,
+
+Teaching Strategies
+方法,百分比%
+方法,百分比%
+,
+
+公司理財
+Grading
+方法,百分比%
+方法,百分比%
+小組報告 Group Projects,30,期中考 Midterm Exam,30,期末考 Term exam,40
+小組報告 Group Projects,30
+期中考 Midterm Exam,30
+期末考 Term exam,40
+
+Teaching Strategies
+方法,百分比%
+方法,百分比%
+講授 Lecture,94
+報告 Presentation,6
+
+Syllabus Progress
+,進度說明 Progress Description
+,進度說明 Progress Description
+1,Introduction
+2,Ch 02 Financial Statements and Cash Flow
+3,Ch 03 Financial Statements Analysis and Financial Models
+4,Ch 04 Discounted Cash Flow Valuation
+5,Ch 05 Net Present Value and Other Investment Rules
+6,Midterm I
+7,Spring Break (no class)
+8,Ch 06 Making Capital Investment Decisions
+9,Ch 08 Interest Rates and Bond Valuation
+10,Ch 09 Stock Valuation
+11,"CH13 Risk, Cost of Capital, and Valuation"
+12,Midterm II
+13,Ch 16 Capital Structure: Basic Concepts
+14,Ch 17 Capital Structure: Limits to the Use of Debt
+15,Group Presentation
+16,Ch 19 Dividends and Other Payouts
+17,"CH 29 Mergers, Acquisitions, and Divestitures"
 18,Final Exam
 
-線性代數
+巨量資料分析
 Grading
 方法,百分比%
 方法,百分比%
-平時測驗 Quizzes,15,期中考 Midterm Exam,25,期末考 Term exam,25,作業 Assignments,35
-平時測驗 Quizzes,15
-期中考 Midterm Exam,25
-期末考 Term exam,25
-作業 Assignments,35
-
-Teaching Strategies
-方法,百分比%
-方法,百分比%
-講授 Lecture,100
-
-Syllabus Progress
-,進度說明 Progress Description
-,進度說明 Progress Description
-1,Introduction to vectors
-2,"Introduction to linear combination, length and dot product."
-3,Solving linear equations I
-4,Solving linear equations II
-5,Introduction to vector spaces
-6,Introduction to subspaces
-7,Basis and dimension of a vector space I
-8,Basis and dimension of a vector space II
-9,Midterm exam
-10,Projection a vector onto a space
-11,Orthogonal bases and Gram-Schmidt process
-12,Determinant of a matrix
-13,Eigenvalues and eigenvectors of a matrix
-14,Diagonalization of a matrix
-15,A discussion on symmetric matrices
-16,Positive definite matrix
-17,Similar matrices and Jordan form
-18,Final exam
-
-行銷管理
-Grading
-方法,百分比%
-方法,百分比%
-其他 others:Exam,42,其他 others:Individual project,18,小組報告 Group Projects,25,其他 others:Homework assignment,15
-其他 others:Exam,42
-其他 others:Individual project,18
-小組報告 Group Projects,25
-其他 others:Homework assignment,15
-
-Teaching Strategies
-方法,百分比%
-方法,百分比%
-講授 Lecture,70
-報告 Presentation,20
-實作 Workshop,10
-
-Syllabus Progress
-,進度說明 Progress Description
-,進度說明 Progress Description
-1,Introduction
-2,Ch1 - An overview of Marketing Management
-3,Ch1 - An overview of Marketing Management
-4,Ch2 - Company and Marketing Strategy
-5,Ch2 - Company and Marketing Strategy
-6,Ch3/4 - Analyzing the marketing environment and gain customer insights
-7,Time reserved for team brainstorming
-8,Ch5 - Understanding consumer and business buyer behavior
-9,Presentation I
-10,Ch6 -Creating value for target customers
-11,Ch8 - Developing new products and managing the product life cycle (optional)
-12,Ch10 - Marketing channels
-13,Ch12 - Engaging customers and communicating customer value
-14,"Ch14 - Direct, online, social media, and mobile marketing"
-15,"Ch14 - Direct, online, social media, and mobile marketing"
-16,Presentation II - Term project
-17,Ch16 - Sustainable marketing (optional)
-18,Final exam
-
-生產作業分析與改善
-Grading
-方法,百分比%
-方法,百分比%
-期中考 Midterm Exam,20,期末考 Term exam,20,小組報告 Group Projects,30,作業 Assignments,10,出席 Participation,20
-期中考 Midterm Exam,20
-期末考 Term exam,20
-小組報告 Group Projects,30
-作業 Assignments,10
-出席 Participation,20
-
-Teaching Strategies
-方法,百分比%
-方法,百分比%
-講授 Lecture,60
-討論 Discussion,20
-報告 Presentation,20
-
-Syllabus Progress
-,進度說明 Progress Description
-,進度說明 Progress Description
-1,Introduction
-2,Forecasting Techniques
-3,Forecasting Techniques
-4,Inventory theory and applications
-5,Inventory theory and applications
-6,Scheduling
-7,Scheduling
-8,Scheduling
-9,Midterm Exam
-10,Continuous Improvement Tools
-11,Material Flow and Facilities Layout Improvement
-12,Equipment Efficiency: Quality
-13,Equipment Efficiency: Performance
-14,Equipment Efficiency: Availability
-15,Other Improvement Tools
-16,Final Exam
-17,Oral report
-18,Oral report
-
-模擬導論
-Grading
-方法,百分比%
-方法,百分比%
-作業 Assignments,15,期中考 Midterm Exam,35,期末考 Term exam,40,其他 others:Labs,10
-作業 Assignments,15
-期中考 Midterm Exam,35
+其他 others:Classroom participation and HW,30,其他 others:Group Project,30,期末考 Term exam,40
+其他 others:Classroom participation and HW,30
+其他 others:Group Project,30
 期末考 Term exam,40
-其他 others:Labs,10
-
-Teaching Strategies
-方法,百分比%
-方法,百分比%
-講授 Lecture,70
-實作 Workshop,30
-
-Syllabus Progress
-,進度說明 Progress Description
-,進度說明 Progress Description
-1,Introduction to system simulation
-2,Simulation examples
-3,Statistical models in simulation
-4,Simulation with Arena
-5,Simulation with Arena
-6,Statistical models in simulation
-7,Statistical models in simulation
-8,Input modeling
-9,Midterm exam
-10,More Arena modeling
-11,Advanced Input modeling
-12,Advanced Input modeling
-13,OA for terminating simulation
-14,OA for terminating simulation
-15,OA for steady-state simulation
-16,Call center modeling
-17,Comparison via simulation
-18,Cumulative final exam
-
-資訊自動化開發與應用
-Grading
-方法,百分比%
-方法,百分比%
-期中考 Midterm Exam,50,小組報告 Group Projects,30,作業 Assignments,20
-期中考 Midterm Exam,50
-小組報告 Group Projects,30
-作業 Assignments,20
 
 Teaching Strategies
 方法,百分比%
 方法,百分比%
 講授 Lecture,50
-實作 Workshop,20
-報告 Presentation,30
+其他:Programming Practice others,20
+其他:Group Presentation and Discussion others,30
 
 Syllabus Progress
 ,進度說明 Progress Description
 ,進度說明 Progress Description
-1,辦公室軟體簡介與課程說明
-2,內建函數講解
-3,內建函數講解
-4,資料處理
-5,資料處理
-6,VBA簡介
-7,巨集錄製與調整
-8,判斷式
-9,期中考
-10,流程控制
-11,流程控制
-12,表單與ActiveX控制項
-13,表單與ActiveX控制項
-14,表單介面
-15,表單介面
-16,實務應用案例
-17,報告
-18,報告
+1,Big Data and Data Mining
+2,Data Preprocessing
+3,Data Visualization and R programing I
+4,Association Rules
+5,Decision Trees
+6,Project Proposal and R Programing II
+7,Neural Net Works
+8,Clustering Methods and R Programing III
+9,Project First Report
+10,Time Series Analysis
+11,Naïve Bayesian Classifier
+12,Business Intelligence
+13,Project Second Report
+14,Manufacturing Intelligence
+15,Rough Set Theory
+16,Project Final Report
+17,Project Final Report
+18,Final Exam
 
-網頁程式開發
+統計實務
 Grading
 方法,百分比%
 方法,百分比%
-出席 Participation,10,作業 Assignments,10,期中考 Midterm Exam,25,個人書面報告 Projects,25,期末考 Term exam,30
-出席 Participation,10
-作業 Assignments,10
-期中考 Midterm Exam,25
-個人書面報告 Projects,25
-期末考 Term exam,30
+期中考 Midterm Exam,50,期末考 Term exam,50
+期中考 Midterm Exam,50
+期末考 Term exam,50
 
 Teaching Strategies
 方法,百分比%
 方法,百分比%
-講授 Lecture,60
-實作 Workshop,40
+講授 Lecture,90
+其他:Practice others,10
 
 Syllabus Progress
 ,進度說明 Progress Description
 ,進度說明 Progress Description
-1,Course Introduction and HTML Basic
-2,HTML Basic II
-3,HTML Basic III
-4,CSS I
-5,CSS II
-6,CSS III
-7,Javascript I
-8,Javascript II
-9,Midterm Exam
-10,Javascript III
-11,jQuery
-12,Bootstrap
-13,Ajax I
-14,Ajax II
-15,Developing Example
-16,Final Project Presentation
-17,Final Project Presentation
-18,Final Exam
+1,緒論、統計制度
+2,調查發展與管制、普查
+3,普查
+4,普查
+5,普查實施調查技術
+6,國富與文化調查、專業抽樣調查
+7,專業抽樣調查
+8,物價與物量指數
+9,物價與物量指數
+10,物價與物量指數
+11,人口與社會指標
+12,人口與社會指標
+13,人力供需統計
+14,人力供需統計、對外貿易統計
+15,國民所得統計
+16,公務統計、統計資訊應用
+17,統計法規
+18,統計法規、統計標準分類
 
-機率論
+生物醫學統計學
 Grading
 方法,百分比%
 方法,百分比%
-作業 Assignments,30,期中考 Midterm Exam,35,期末考 Term exam,35
-作業 Assignments,30
+期中考 Midterm Exam,25,期末考 Term exam,25,作業 Assignments,35,個人書面報告 Projects,15
+期中考 Midterm Exam,25
+期末考 Term exam,25
+作業 Assignments,35
+個人書面報告 Projects,15
+
+Teaching Strategies
+方法,百分比%
+方法,百分比%
+講授 Lecture,80
+個案研討 Case study,20
+
+數位平台設計
+Grading
+方法,百分比%
+方法,百分比%
+其他 others:Attendance and Participation,30,小組報告 Group Projects,10,其他 others:Midterm project,30,其他 others:Final project,30
+其他 others:Attendance and Participation,30
+小組報告 Group Projects,10
+其他 others:Midterm project,30
+其他 others:Final project,30
+
+Teaching Strategies
+方法,百分比%
+方法,百分比%
+講授 Lecture,40
+實作 Workshop,40
+報告 Presentation,20
+
+Syllabus Progress
+,進度說明 Progress Description
+,進度說明 Progress Description
+1,Introduction
+2,Digital Platform and Design Science
+3,Digital Platform Business Model
+4,Digital Platform Business Model Examples (Presentation)
+5,Design Recombination
+6,CSS Basics
+7,Layout Design 1
+8,Layout Design 2
+9,JavaScript
+10,Midterm Project Paper
+11,SEO and Content Strategy
+12,Introduction to PHP
+13,PHP Fundamentals
+14,Form Handling & MySQL
+15,MySQL CRUD Practices
+16,Final Presentation 1
+17,Final Presentation 2
+18,Final Report
+
+財務管理
+Grading
+方法,百分比%
+方法,百分比%
+其他 others:請以老師上課說明之評量方式為主,100
+其他 others:請以老師上課說明之評量方式為主,100
+
+Teaching Strategies
+方法,百分比%
+方法,百分比%
+講授 Lecture,100
+
+統計學（二）
+Grading
+方法,百分比%
+方法,百分比%
+作業 Assignments,10,期中考 Midterm Exam,20,期中考 Midterm Exam,30,期末考 Term exam,40
+作業 Assignments,10
+期中考 Midterm Exam,20
+期中考 Midterm Exam,30
+期末考 Term exam,40
+
+Teaching Strategies
+方法,百分比%
+方法,百分比%
+講授 Lecture,100
+
+Syllabus Progress
+,進度說明 Progress Description
+,進度說明 Progress Description
+1,Review Chapters 1-8
+2,Review Chapters 1-8 & Tests of Hypotheses-1
+3,Tests of Hypotheses- 2 and Review test
+4,Inference two population means and proportions -1
+5,Inference two population means and proportions -2
+6,Reviews and Test 1
+7,Inference one and two population variances
+8,Categorical Data Analysis
+9,Design of Experiments & Analysis of Variance.-1
+10,Design of Experiments & Analysis of Variance.-2
+11,Reviews
+12,Reviews and test 2
+13,Simple Linear Regression -1
+14,Simple Linear Regression -2
+15,Multiple Regression -1
+16,Multiple Regression -2
+17,Reviews
+18,Final Exam
+
+計算機概論
+Grading
+方法,百分比%
+方法,百分比%
+其他 others:教師課堂公佈,100
+其他 others:教師課堂公佈,100
+
+Teaching Strategies
+方法,百分比%
+方法,百分比%
+講授 Lecture,40
+其他:期中期末考試 others,20
+其他:作業 others,20
+其他:上機程式 others,20
+
+Syllabus Progress
+,進度說明 Progress Description
+,進度說明 Progress Description
+1,簡介計算機與資訊網路
+2,各種電腦裝置
+3,資料儲存(1)
+4,資料儲存(2)
+5,資料處理(1)
+6,資料處理(2)
+7,作業系統
+8,期中考
+9,檔案系統(2)
+10,網路通訊與網際網路
+11,程式語言簡介
+12,Python: Expressions
+13,Python: Conditionals
+14,Python: Functions
+15,Python: Iterations
+16,Python: Packages
+17,期末考
+18,期末專題報告
+
+微積分（二）
+Grading
+方法,百分比%
+方法,百分比%
+期中考 Midterm Exam,30,期末考 Term exam,30,平時測驗 Quizzes,30,作業 Assignments,10
+期中考 Midterm Exam,30
+期末考 Term exam,30
+平時測驗 Quizzes,30
+作業 Assignments,10
+
+Teaching Strategies
+方法,百分比%
+方法,百分比%
+講授 Lecture,100
+
+Syllabus Progress
+,進度說明 Progress Description
+,進度說明 Progress Description
+1,Parametric Equations and Polar Coordinates
+2,Sequences; Indeterminate Forms; Improper Integrals
+3,Sequences; Indeterminate Forms; Improper Integrals
+4,Infinite Series
+5,Infinite Series
+6,Infinite Series
+7,Vector in Three-dimensional Space; Vector Calculus
+8,Spring Break
+9,Midterm Exam
+10,Functions of Three Variables
+11,Functions of Three Variables
+12,Gradients; Extreme Values; Differentials
+13,Gradients; Extreme Values; Differentials
+14,Double and Triple Integrals
+15,Double and Triple Integrals
+16,Lineal Integrals and Surface Integrals
+17,Lineal Integrals and Surface Integrals
+18,Final Exam
+
+經濟學（二）
+Grading
+方法,百分比%
+方法,百分比%
+平時測驗 Quizzes,25,期中考 Midterm Exam,35,期末考 Term exam,40
+平時測驗 Quizzes,25
 期中考 Midterm Exam,35
-期末考 Term exam,35
+期末考 Term exam,40
 
 Teaching Strategies
 方法,百分比%
@@ -582,125 +975,725 @@ Teaching Strategies
 講授 Lecture,80
 討論 Discussion,20
 
-工業與資訊管理專題（一）
+Syllabus Progress
+,進度說明 Progress Description
+,進度說明 Progress Description
+1,課程介紹
+2,第23章: 一國國民所得的衡量
+3,第24章: 生活成本的衡量
+4,第26章: 儲蓄、投資與金融體系
+5,第29章: 貨幣體系
+6,第29章: 貨幣體系
+7,民族掃墓節停課一次
+8,第30章: 貨幣供給成長與物價膨脹
+9,第31章: 開放經濟體的總體經濟分析的基本觀念
+10,期中考試
+11,第32章: 開放經濟體的總體經濟理論
+12,第32章: 開放經濟體的總體經濟理論
+13,第33章: 總合需求與總合供給
+14,第33章: 總合需求與總合供給
+15,第34章: 貨幣與財政政策對總合需求的影響
+16,第34章: 貨幣與財政政策對總合需求的影響
+17,第35章: 通膨與失業在短期的權衡取捨
+18,期末考試
+
+服務學習（二）
 Grading
 方法,百分比%
 方法,百分比%
-小組報告 Group Projects,100
-小組報告 Group Projects,100
+出席 Participation,100
+出席 Participation,100
 
 Teaching Strategies
 方法,百分比%
 方法,百分比%
-討論 Discussion,100
+實作 Workshop,100
 
 Syllabus Progress
 ,進度說明 Progress Description
 ,進度說明 Progress Description
-1,各組專題老師自行排定報告時間
-2,各組專題老師自行排定報告時間
-3,各組專題老師自行排定報告時間
-4,各組專題老師自行排定報告時間
-5,各組專題老師自行排定報告時間
-6,各組專題老師自行排定報告時間
-7,各組專題老師自行排定報告時間
-8,各組專題老師自行排定報告時間
-9,各組專題老師自行排定報告時間
-10,各組專題老師自行排定報告時間
-11,各組專題老師自行排定報告時間
-12,各組專題老師自行排定報告時間
-13,各組專題老師自行排定報告時間
-14,各組專題老師自行排定報告時間
-15,各組專題老師自行排定報告時間
-16,各組專題老師自行排定報告時間
-17,各組專題老師自行排定報告時間
-18,各組專題老師自行排定報告時間
+1,系館環境清潔服務
+2,系館環境清潔服務
+3,系館環境清潔服務
+4,系館環境清潔服務
+5,系館環境清潔服務
+6,系館環境清潔服務
+7,系館環境清潔服務
+8,系館環境清潔服務
+9,系館環境清潔服務
+10,系館環境清潔服務
+11,系館環境清潔服務
+12,系館環境清潔服務
+13,系館環境清潔服務
+14,系館環境清潔服務
+15,系館環境清潔服務
+16,系館環境清潔服務
+17,系館環境清潔服務
+18,系館環境清潔服務
 
-統計製程管制
+數理統計（一）
 Grading
 方法,百分比%
 方法,百分比%
-期末考 Term exam,50,作業 Assignments,25,小組報告 Group Projects,25
-期末考 Term exam,50
-作業 Assignments,25
-小組報告 Group Projects,25
+期中考 Midterm Exam,35,期末考 Term exam,35,作業 Assignments,20,其他 others:Review Exams,10
+期中考 Midterm Exam,35
+期末考 Term exam,35
+作業 Assignments,20
+其他 others:Review Exams,10
 
 Teaching Strategies
 方法,百分比%
 方法,百分比%
-講授 Lecture,70
-實作 Workshop,20
+講授 Lecture,100
+
+Syllabus Progress
+,進度說明 Progress Description
+,進度說明 Progress Description
+1,Expected values
+2,Expected values
+3,Expected values
+4,Univariate Distributions
+5,Univariate Distributions
+6,Univariate Distributions
+7,Univariate Distributions
+8,Multivariate Distributions
+9,Multivariate Distributions
+10,Midterm Exam
+11,Asymptotics
+12,Asymptotics
+13,Asymptotics
+14,Asymptotics
+15,Asymptotics
+16,Extimation
+17,Estimation
+18,Final Exam
+
+迴歸分析
+Grading
+方法,百分比%
+方法,百分比%
+作業 Assignments,25,期中考 Midterm Exam,35,期末考 Term exam,40
+作業 Assignments,25
+期中考 Midterm Exam,35
+期末考 Term exam,40
+
+Teaching Strategies
+方法,百分比%
+方法,百分比%
+講授 Lecture,80
+其他:作業與考試 Homework assignment and quizzes others,15
+討論 Discussion,5
+
+Syllabus Progress
+,進度說明 Progress Description
+,進度說明 Progress Description
+1,Review of linear regression with one predictor variable
+2,Inferences in simple linear regression
+3,Inferences in simple linear regression
+4,Inferences in simple linear regression and correlation analysis
+5,Model adequacy check
+6,Model adequacy check and some remedial measures
+7,Simultaneous inferences
+8,Simultaneous inferences and some topics in regression analysis
+9,Matrix approach to simple linear regression analysis
+10,Midterm Exam
+11,Polynomial regression
+12,Multiple regression
+13,Multiple regression
+14,Regression models for quantitative and qualitative predictors
+15,Building regression model: model selection and validation
+16,Building regression model: diagnostics and remedial measures
+17,Introduction to logistic regression model
+18,Final Exam
+
+會計學（二）
+Grading
+方法,百分比%
+方法,百分比%
+期中考 Midterm Exam,35,期末考 Term exam,35,其他 others:課堂參與及交流表現,30
+期中考 Midterm Exam,35
+期末考 Term exam,35
+其他 others:課堂參與及交流表現,30
+
+Teaching Strategies
+方法,百分比%
+方法,百分比%
+講授 Lecture,80
+個案研討 Case study,20
+
+Syllabus Progress
+,進度說明 Progress Description
+,進度說明 Progress Description
+1,"ch9. Plant Assets, Natural Resources, and Intangible Assets"
+2,"ch9. Plant Assets, Natural Resources, and Intangible Assets"
+3,Time value OF money & Ch10. Current Liabilities
+4,Ch11. Non-Current Liabilities
+5,Ch11. Non-Current Liabilities
+6,"Ch12. Corporations: Organization, Share Transactions, and Equity"
+7,"Ch12. Corporations: Organization, Share Transactions, and Equity"
+8,Ch13. Investments
+9,Mid-term exam  (CH9~CH12)
+10,Ch13. Investments
+11,Ch13. Investments
+12,Ch14. Statement of cash flows
+13,Ch14. Statement of cash flows
+14,Ch14. Statement of cash flows
+15,Ch15.Financial Statement Analysis
+16,Ch15.Financial Statement Analysis
+17,Ch15.Financial Statement Analysis
+18,Final exam(CH113~CH15)
+
+抽樣調查
+Grading
+方法,百分比%
+方法,百分比%
+期中考 Midterm Exam,35,期末考 Term exam,35,小組報告 Group Projects,10,作業 Assignments,20
+期中考 Midterm Exam,35
+期末考 Term exam,35
+小組報告 Group Projects,10
+作業 Assignments,20
+
+Teaching Strategies
+方法,百分比%
+方法,百分比%
+其他:Lecture with handouts others,80
+其他:Case study others,20
+
+Syllabus Progress
+,進度說明 Progress Description
+,進度說明 Progress Description
+1,Introduction
+2,Concepts of Sampling
+3,Probability Sampling Theory
+4,Simple Random Sampling
+5,Simple Random Sampling
+6,Sample Size and Precision
+7,Utilization of Auxiliary Information in Inference
+8,Utilization of Auxiliary Information in Inference
+9,Stratified Sampling
+10,Midterm Exam
+11,Stratified Sampling
+12,Cluster Sampling
+13,Cluster Sampling
+14,Multi-stage Sampling
+15,Multi-stage Sampling
+16,Double Sampling
+17,Case Study
+18,Final Exam
+
+統計軟體與繪圖
+Grading
+方法,百分比%
+方法,百分比%
+出席 Participation,20,作業 Assignments,40,期末考 Term exam,40
+出席 Participation,20
+作業 Assignments,40
+期末考 Term exam,40
+
+Teaching Strategies
+方法,百分比%
+方法,百分比%
+其他:Traditional teaching others,40
+其他:Lecture notes others,20
+其他:In-class exercise and discussion others,40
+
+Syllabus Progress
+,進度說明 Progress Description
+,進度說明 Progress Description
+1,"Introduction to R, basic data processing"
+2,"Introduction to R, exploratory data analysis"
+3,"Introduction to R, basic statistical methods"
+4,Introduction to SPSS (Statistical Package for the Social Sciences)
+5,Introduction to SPSS (Statistical Package for the Social Sciences)
+6,"Introduction to SAS (Statistical Analysis System, Enterprise Guide)"
+7,"Introduction to SAS (Statistical Analysis System, Enterprise Guide)"
+8,"Introduction to SAS (Statistical Analysis System, packages)"
+9,"Introduction to SAS (Statistical Analysis System, packages)"
+10,Introduction to Git and Github
+11,Writing reproducible reports in R with markdown
+12,Introduction to statistical graphics using R
+13,Introduction to statistical graphics using R
+14,Introduction to data visualization with R shiny package
+15,Introduction to data visualization with R shiny package
+16,Introduction to packages in Python
+17,Introduction to packages in Python
+18,Final Exam
+
+保險數學
+Grading
+方法,百分比%
+方法,百分比%
+其他 others:教師課堂公佈,100
+其他 others:教師課堂公佈,100
+
+Teaching Strategies
+方法,百分比%
+方法,百分比%
+講授 Lecture,80
+其他:交出作業批改或同學上台解說 others,10
+其他:請同學報告與課堂內容相關之實際業務 others,10
+
+Syllabus Progress
+,進度說明 Progress Description
+,進度說明 Progress Description
+1,Course introduction，Interest rate
+2,holiday
+3,"effective, nominal rate, discount rate"
+4,"force of interest and discount, homework discussion"
+5,"basic annuities, real examples"
+6,basic annuities
+7,basic annuities
+8,general annuities
+9,"general annuities, homework discussion"
+10,midterm
+11,general annuities
+12,student reports
+13,student reports
+14,"student reports, homework discussion"
+15,amortization method
+16,amortization method
+17,"yield rate, homework discussion"
+18,final exam
+
+生物統計
+Grading
+方法,百分比%
+方法,百分比%
+其他 others:Coursera Online Quiz/線上測驗,40,其他 others:Coursera Homework/線上課程作業完成程度,20,其他 others:Learning Portfolio Record/學習歷程記錄,40
+其他 others:Coursera Online Quiz/線上測驗,40
+其他 others:Coursera Homework/線上課程作業完成程度,20
+其他 others:Learning Portfolio Record/學習歷程記錄,40
+
+Teaching Strategies
+方法,百分比%
+方法,百分比%
+其他:Coursera Online Video 線上教學影片 others,80
+其他:Coursera Homework and Online Quiz 作業及線上測驗 others,20
+
+Syllabus Progress
+,進度說明 Progress Description
+,進度說明 Progress Description
+1,"Introduction to clinical research, observational and experimental studies"
+2,Introduction to case-control、cross-sectional、cohort studies
+3,"Introduction to experimental studies, meta-analysis"
+4,Data types : nominal categorical data、ordinal、numerical
+5,How to tell the difference : discrete and continuous variables
+6,Introduction to hypothesis testing
+7,Introduction to Type I and II errors
+8,"Introduction to parametric tests : t test, ANOVA"
+9,Introduction linear regression
+10,"Introduction to nonparametric tests : sign test, rank sums test, Mann-Whitney-U test"
+11,Comparing categorical data : contingency tables Chi-square test Fisher's exact test
+12,Introduction to sensitivity and specificity
+13,Introduction to risk and odds ratios
+14,"Introduction to Probability, Expectations, and Random Vectors"
+15,Conditional Probability and Bayes' Rule
+16,"Distributions, Likelihood Functions and Asymptotic Properties"
+17,"Confidence Intervals, Bootstrapping, and Plotting"
+18,Binomial Proportions and Logs
+
+民意調查
+Grading
+方法,百分比%
+方法,百分比%
+出席 Participation,90,個人書面報告 Projects,10
+出席 Participation,90
+個人書面報告 Projects,10
+
+Teaching Strategies
+方法,百分比%
+方法,百分比%
+其他:Coursera Online Video 線上教學影片 others,80
+其他:Coursera Homework and Online Quiz 作業及線上測驗 others,20
+
+Syllabus Progress
+,進度說明 Progress Description
+,進度說明 Progress Description
+1,Research Designs and Data Sources
+2,Measurements and Analysis Plan
+3,Quality Framework
+4,Application of TSE Framework to Existing Surveys
+5,Overview of Standardized Interviewing
+6,Response Process
+7,Asking Factual Questions
+8,Asking Factual Questions
+9,Measuring Attitudes
+10,Measuring Attitudes
+11,"Introduction, Classic Modes of Survey Data Collection"
+12,"Introduction, Classic Modes of Survey Data Collection"
+13,"Self-administration, Online Data Collection"
+14,"Self-administration, Online Data Collection"
+15,"Self-administration, Online Data Collection"
+16,Interviewers and Interviewing
+17,Interviewers and Interviewing
+18,"Emerging modes, new data sources"
+
+多變量分析
+Grading
+方法,百分比%
+方法,百分比%
+作業 Assignments,30,期中考 Midterm Exam,40,其他 others:期末報告,30
+作業 Assignments,30
+期中考 Midterm Exam,40
+其他 others:期末報告,30
+
+Teaching Strategies
+方法,百分比%
+方法,百分比%
+講授 Lecture,100
+
+Syllabus Progress
+,進度說明 Progress Description
+,進度說明 Progress Description
+1,Introduction
+2,Moving to Higher Dimensions
+3,Multivariate Distributions
+4,Multivariate Distributions
+5,Theory of the Multinormal
+6,Hypothesis Testing
+7,Regression Models
+8,Variable Selection
+9,Midterm Exam
+10,Principal Components Analysis
+11,Principal Components Analysis
+12,Factor Analysis
+13,Correspondence Analysis
+14,Cluster Analysis
+15,Discriminant Analysis
+16,Correspondence Analysis
+17,Canonical Correlation Analysis
+18,Final Exam
+
+類別資料分析
+Grading
+方法,百分比%
+方法,百分比%
+出席 Participation,5,期中考 Midterm Exam,25,期中考 Midterm Exam,25,小組報告 Group Projects,20,作業 Assignments,25
+出席 Participation,5
+期中考 Midterm Exam,25
+期中考 Midterm Exam,25
+小組報告 Group Projects,20
+作業 Assignments,25
+
+Teaching Strategies
+方法,百分比%
+方法,百分比%
+講授 Lecture,90
 報告 Presentation,10
 
 Syllabus Progress
 ,進度說明 Progress Description
 ,進度說明 Progress Description
-1,Introduction to Statistical Quality Control
-2,Quality Management System
-3,The Magnificent Seven
-4,The Seven Management and Planning Tools
-5,How SPC works
-6,Variables control charts
-7,Variables control charts
-8,Attributes control charts
-9,Attributes control charts
-10,Midterm
-11,Time-weighted control charts
-12,Time-weighted control charts
-13,Advanced topics
-14,Acceptance Sampling
-15,Acceptance Sampling
-16,PID controller
-17,Project Presentation
-18,Final Exam
+1,Introduction
+2,Sampling Models
+3,Two-way Contingency Tables
+4,The Odds Ratio
+5,Three-way Contingency Tables
+6,Cochran-Mantel-Haenszel Methods
+7,Midterm Exam 1
+8,Generalized Linear Model for Binary Data
+9,Generalized Linear Model for Count Data
+10,Logistic Regression Models
+11,Multiple Logistic Regression
+12,Midterm Exam 2
+13,Loglinear Models for Contingency Tables
+14,Inference for Loglinear Models
+15,Building and Applying Logit and Loglinear Models
+16,Tests of Conditional Independence
+17,Multicategory Logit Models
+18,Final Report
 
-雲端行動應用
+機器學習
 Grading
 方法,百分比%
 方法,百分比%
-出席 Participation,5,其他 others:Lab,35,作業 Assignments,30,個人書面報告 Projects,30
-出席 Participation,5
-其他 others:Lab,35
-作業 Assignments,30
+作業 Assignments,60,個人口頭報告 Presentations,10,個人書面報告 Projects,30
+作業 Assignments,60
+個人口頭報告 Presentations,10
 個人書面報告 Projects,30
 
 Teaching Strategies
 方法,百分比%
 方法,百分比%
-講授 Lecture,50
-實作 Workshop,50
+講授 Lecture,80
+討論 Discussion,10
+報告 Presentation,10
 
 Syllabus Progress
 ,進度說明 Progress Description
 ,進度說明 Progress Description
-1,Class Introduction
-2,Introduction to Kotlin
-3,Android Studio and MVC
-4,Layout and Basic Applications
-5,ListView and Adapter
-6,Activities and Intents
-7,RecyclerView and
-8,Screen Navigation
-9,Midterm Week
-10,Fragments
-11,LiveData
-12,ViewModel
-13,Room Database
-14,Lab (Final Project)
-15,Lab (Final Project)
-16,Lab (Final Project)
-17,Final Project Presentation
-18,Final Project Presentation
+1,Introduction & Statistical Learning
+2,Linear Regression
+3,Linear Regression
+4,Classification
+5,Classification
+6,Resampling Methods
+7,Resampling Methods
+8,Linear Model Selection and Regularization
+9,Linear Model Selection and Regularization
+10,Moving Beyond Linearity
+11,Moving Beyond Linearity
+12,Tree-Based Methods
+13,Tree-Based Methods
+14,Tree-Based Methods
+15,Deep Learning
+16,Deep Learning
+17,Unsupervised Learning
+18,Unsupervised Learning
 
-實驗設計導論
+財務統計
 Grading
 方法,百分比%
 方法,百分比%
-出席 Participation,5,作業 Assignments,25,期中考 Midterm Exam,30,期末考 Term exam,40
-出席 Participation,5
-作業 Assignments,25
+作業 Assignments,30,期中考 Midterm Exam,35,個人口頭報告 Presentations,35
+作業 Assignments,30
+期中考 Midterm Exam,35
+個人口頭報告 Presentations,35
+
+Teaching Strategies
+方法,百分比%
+方法,百分比%
+講授 Lecture,100
+
+Syllabus Progress
+,進度說明 Progress Description
+,進度說明 Progress Description
+1,Introdiction/Probability
+2,Fixed Income Securities
+3,Yield to Maturity
+4,Exploratory Data
+5,Returns
+6,Modeling Univariate Data
+7,Time Sereis Model
+8,Vacation
+9,Modeling Time Series Process
+10,Modeling Time Series Process
+11,GARCH model
+12,Copula
+13,Copula
+14,Cointegration
+15,Portfolio Selection
+16,Portfolio Selection
+17,Portfolio Selection
+18,Final Report
+
+統計調查實務
+Grading
+方法,百分比%
+方法,百分比%
+其他 others:實習時數及電訪/面訪實務表現,100
+其他 others:實習時數及電訪/面訪實務表現,100
+
+Teaching Strategies
+方法,百分比%
+方法,百分比%
+實作 Workshop,100
+
+Syllabus Progress
+,進度說明 Progress Description
+,進度說明 Progress Description
+1,至本系調查統計研究室進行實務實習
+2,至本系調查統計研究室進行實務實習
+3,至本系調查統計研究室進行實務實習
+4,至本系調查統計研究室進行實務實習
+5,至本系調查統計研究室進行實務實習
+6,至本系調查統計研究室進行實務實習
+7,至本系調查統計研究室進行實務實習
+8,至本系調查統計研究室進行實務實習
+9,至本系調查統計研究室進行實務實習
+10,至本系調查統計研究室進行實務實習
+11,至本系調查統計研究室進行實務實習
+12,至本系調查統計研究室進行實務實習
+13,至本系調查統計研究室進行實務實習
+14,至本系調查統計研究室進行實務實習
+15,至本系調查統計研究室進行實務實習
+16,至本系調查統計研究室進行實務實習
+17,至本系調查統計研究室進行實務實習
+18,至本系調查統計研究室進行實務實習
+
+商事法
+Grading
+方法,百分比%
+方法,百分比%
+,
+
+Teaching Strategies
+方法,百分比%
+方法,百分比%
+,
+
+公司理財
+Grading
+方法,百分比%
+方法,百分比%
+小組報告 Group Projects,30,期中考 Midterm Exam,30,期末考 Term exam,40
+小組報告 Group Projects,30
 期中考 Midterm Exam,30
 期末考 Term exam,40
+
+Teaching Strategies
+方法,百分比%
+方法,百分比%
+講授 Lecture,94
+報告 Presentation,6
+
+Syllabus Progress
+,進度說明 Progress Description
+,進度說明 Progress Description
+1,Introduction
+2,Ch 02 Financial Statements and Cash Flow
+3,Ch 03 Financial Statements Analysis and Financial Models
+4,Ch 04 Discounted Cash Flow Valuation
+5,Ch 05 Net Present Value and Other Investment Rules
+6,Midterm I
+7,Spring Break (no class)
+8,Ch 06 Making Capital Investment Decisions
+9,Ch 08 Interest Rates and Bond Valuation
+10,Ch 09 Stock Valuation
+11,"CH13 Risk, Cost of Capital, and Valuation"
+12,Midterm II
+13,Ch 16 Capital Structure: Basic Concepts
+14,Ch 17 Capital Structure: Limits to the Use of Debt
+15,Group Presentation
+16,Ch 19 Dividends and Other Payouts
+17,"CH 29 Mergers, Acquisitions, and Divestitures"
+18,Final Exam
+
+巨量資料分析
+Grading
+方法,百分比%
+方法,百分比%
+其他 others:Classroom participation and HW,30,其他 others:Group Project,30,期末考 Term exam,40
+其他 others:Classroom participation and HW,30
+其他 others:Group Project,30
+期末考 Term exam,40
+
+Teaching Strategies
+方法,百分比%
+方法,百分比%
+講授 Lecture,50
+其他:Programming Practice others,20
+其他:Group Presentation and Discussion others,30
+
+Syllabus Progress
+,進度說明 Progress Description
+,進度說明 Progress Description
+1,Big Data and Data Mining
+2,Data Preprocessing
+3,Data Visualization and R programing I
+4,Association Rules
+5,Decision Trees
+6,Project Proposal and R Programing II
+7,Neural Net Works
+8,Clustering Methods and R Programing III
+9,Project First Report
+10,Time Series Analysis
+11,Naïve Bayesian Classifier
+12,Business Intelligence
+13,Project Second Report
+14,Manufacturing Intelligence
+15,Rough Set Theory
+16,Project Final Report
+17,Project Final Report
+18,Final Exam
+
+統計實務
+Grading
+方法,百分比%
+方法,百分比%
+期中考 Midterm Exam,50,期末考 Term exam,50
+期中考 Midterm Exam,50
+期末考 Term exam,50
+
+Teaching Strategies
+方法,百分比%
+方法,百分比%
+講授 Lecture,90
+其他:Practice others,10
+
+Syllabus Progress
+,進度說明 Progress Description
+,進度說明 Progress Description
+1,緒論、統計制度
+2,調查發展與管制、普查
+3,普查
+4,普查
+5,普查實施調查技術
+6,國富與文化調查、專業抽樣調查
+7,專業抽樣調查
+8,物價與物量指數
+9,物價與物量指數
+10,物價與物量指數
+11,人口與社會指標
+12,人口與社會指標
+13,人力供需統計
+14,人力供需統計、對外貿易統計
+15,國民所得統計
+16,公務統計、統計資訊應用
+17,統計法規
+18,統計法規、統計標準分類
+
+生物醫學統計學
+Grading
+方法,百分比%
+方法,百分比%
+期中考 Midterm Exam,25,期末考 Term exam,25,作業 Assignments,35,個人書面報告 Projects,15
+期中考 Midterm Exam,25
+期末考 Term exam,25
+作業 Assignments,35
+個人書面報告 Projects,15
+
+Teaching Strategies
+方法,百分比%
+方法,百分比%
+講授 Lecture,80
+個案研討 Case study,20
+
+數位平台設計
+Grading
+方法,百分比%
+方法,百分比%
+其他 others:Attendance and Participation,30,小組報告 Group Projects,10,其他 others:Midterm project,30,其他 others:Final project,30
+其他 others:Attendance and Participation,30
+小組報告 Group Projects,10
+其他 others:Midterm project,30
+其他 others:Final project,30
+
+Teaching Strategies
+方法,百分比%
+方法,百分比%
+講授 Lecture,40
+實作 Workshop,40
+報告 Presentation,20
+
+Syllabus Progress
+,進度說明 Progress Description
+,進度說明 Progress Description
+1,Introduction
+2,Digital Platform and Design Science
+3,Digital Platform Business Model
+4,Digital Platform Business Model Examples (Presentation)
+5,Design Recombination
+6,CSS Basics
+7,Layout Design 1
+8,Layout Design 2
+9,JavaScript
+10,Midterm Project Paper
+11,SEO and Content Strategy
+12,Introduction to PHP
+13,PHP Fundamentals
+14,Form Handling & MySQL
+15,MySQL CRUD Practices
+16,Final Presentation 1
+17,Final Presentation 2
+18,Final Report
+
+財務管理
+Grading
+方法,百分比%
+方法,百分比%
+其他 others:請以老師上課說明之評量方式為主,100
+其他 others:請以老師上課說明之評量方式為主,100
 
 Teaching Strategies
 方法,百分比%
