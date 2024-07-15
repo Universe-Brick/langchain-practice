@@ -11,8 +11,11 @@ requests = "*"
 urllib3 = "*"
 certifi = "*"
 pandas = "*"
+langchain-text-splitters = "*"
+faiss-cpu = "*"
 
 [dev-packages]
+ipykernel = "*"
 
 [requires]
 python_version = "3.11"
