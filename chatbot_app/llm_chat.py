@@ -7,38 +7,17 @@ from langchain.chains import create_history_aware_retriever
 from langchain_core.messages import HumanMessage, AIMessage
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_core.prompts import MessagesPlaceholder
-    
+
+
+# get api key
 import os
 from dotenv import load_dotenv
 load_dotenv()
 
 OPENAI_API_KEY = os.getenv('CHATGPT_API_KEY')
 
-
-# file_paths = [
-#     "/Users/lucifiel/langchain-practice/ncku_CoM_data.csv",
-#     "/Users/lucifiel/langchain-practice/ncku_hub_data.csv"
-# ]
-
-# all_documents = []
-
-# for file_path in file_paths:
-#     loader = CSVLoader(file_path=file_path)
-#     documents = loader.load()
-#     all_documents.extend(documents)  
-
-# text_splitter = CharacterTextSplitter(chunk_size=1000, chunk_overlap=0)
-
-# docs = text_splitter.split_documents(all_documents)
-
+# init model
 embeddings_model = OpenAIEmbeddings(openai_api_key=OPENAI_API_KEY)
-
-# vectorstore = FAISS.from_documents(all_documents, embeddings_model)
-
-# vectorstore.save_local("faiss_index")
-
-
-
 llm_model = ChatOpenAI(openai_api_key=OPENAI_API_KEY, temperature=0, model="gpt-3.5-turbo") 
 
 new_db = FAISS.load_local("faiss_index", embeddings_model, allow_dangerous_deserialization=True)
@@ -67,6 +46,21 @@ retrieval_chain_combine = create_retrieval_chain(retriever_chain, document_chain
 
 
 chat_history = []
+
+def ask_question(query: str, chat_history: list) -> str:
+    """
+    向 LLM 提問並返回回應。
+
+    :param query: 要提問的問題
+    :param chat_history: 之前的聊天記錄
+    :return: LLM 的回答
+    """
+    response = retrieval_chain_combine.invoke({"input": query, "chat_history": chat_history})
+    chat_history.append(HumanMessage(content=query))
+    chat_history.append(AIMessage(content=response['answer']))
+    return response['answer']
+
+
 query = "請列出資料結構這堂課的分數百分比"
 response = retrieval_chain_combine.invoke({"input": query, "chat_history": chat_history}) 
 print(response['answer'])
@@ -79,7 +73,3 @@ response2 = retrieval_chain_combine.invoke({
     "chat_history": chat_history
 }) 
 print(response2['answer']) 
-
-
-
-

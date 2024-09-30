@@ -13,6 +13,9 @@ certifi = "*"
 pandas = "*"
 langchain-text-splitters = "*"
 faiss-cpu = "*"
+python-dotenv = "*"
+langgraph = "*"
+langchain-core = "*"
 
 [dev-packages]
 ipykernel = "*"
