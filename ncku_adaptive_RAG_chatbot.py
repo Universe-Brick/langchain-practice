@@ -4,23 +4,17 @@ from langchain_openai import ChatOpenAI
 from langchain.chains.combine_documents import create_stuff_documents_chain
 from langchain.chains import create_retrieval_chain
 from langchain.chains import create_history_aware_retriever
-from langchain_core.messages import HumanMessage, AIMessage
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_core.prompts import MessagesPlaceholder
 
 from langchain_community.tools.tavily_search import TavilySearchResults
-from langchain_community.document_loaders import CSVLoader
 from langchain_community.vectorstores import FAISS
-from langchain.chains import ConversationalRetrievalChain
-from langchain.memory import ConversationBufferMemory
 
 from langchain_community.chat_message_histories import ChatMessageHistory
 from langchain_core.chat_history import BaseChatMessageHistory
 from langchain_core.runnables.history import RunnableWithMessageHistory
-from langchain_text_splitters import RecursiveCharacterTextSplitter
 
 from langchain_core.pydantic_v1 import BaseModel, Field
-from langchain_core.output_parsers import StrOutputParser
 from typing_extensions import TypedDict
 from typing import List
 from langchain.schema import Document
@@ -29,7 +23,7 @@ from langgraph.graph import END, StateGraph
 
 from langsmith import Client
 import os
-import getpass
+# import getpass
 from dotenv import load_dotenv
 load_dotenv()
 
@@ -67,13 +61,13 @@ class vectorstore(BaseModel):
 
 
 # Prompt Template
-instruction = """
+instruction_router = """
 你是將使用者問題導向向量資料庫或網路搜尋的專家。
 向量資料庫包含有關成大選修課程的詳細相關資訊。對於這些主題的問題，請使用向量資料庫工具。其他情況則使用網路搜尋工具。
 """
 route_prompt = ChatPromptTemplate.from_messages(
     [
-        ("system",instruction),
+        ("system",instruction_router),
         ("human", "{question}"),
     ]
 )
@@ -129,14 +123,14 @@ class GradeDocuments(BaseModel):
     binary_score: str = Field(description="請問文章與問題是否相關。('yes' or 'no')")
 
 # Prompt Template
-instruction = """
+instruction_grader = """
 你是一個評分的人員，負責評估文件與使用者問題的關聯性。
 如果文件包含與使用者問題相關的關鍵字或語意，則將其評為相關。
 輸出 'yes' or 'no' 代表文件與問題的相關與否。
 """
 grade_prompt = ChatPromptTemplate.from_messages(
     [
-        ("system",instruction),
+        ("system",instruction_grader),
         ("human", "文件: \n\n {document} \n\n 使用者問題: {question}"),
     ]
 )
@@ -158,14 +152,14 @@ class GradeHallucinations(BaseModel):
     binary_score: str = Field(description="答案是否由為虛構。('yes' or 'no')")
 
 # Prompt Template
-instruction = """
+instruction_hal = """
 你是一個評分的人員，負責確認LLM的回應是否為虛構的。
 以下會給你一個文件與相對應的LLM回應，請輸出 'yes' or 'no'做為判斷結果。
 'Yes' 代表LLM的回答是虛構的，未基於文件內容 'No' 則代表LLM的回答並未虛構，而是基於文件內容得出。
 """
 hallucination_prompt = ChatPromptTemplate.from_messages(
     [
-        ("system",instruction),
+        ("system",instruction_hal),
         ("human", "文件: \n\n {documents} \n\n LLM 回應: {generation}"),
     ]
 )
@@ -188,14 +182,14 @@ class GradeAnswer(BaseModel):
     binary_score: str = Field(description="答案是否回應問題。('yes' or 'no')")
 
 # Prompt Template
-instruction = """
+instruction_ans = """
 你是一個評分的人員，負責確認答案是否回應了問題。
 輸出 'yes' or 'no'。 'Yes' 代表答案確實回應了問題， 'No' 則代表答案並未回應問題。
 """
 # Prompt
 answer_prompt = ChatPromptTemplate.from_messages(
     [
-        ("system",instruction),
+        ("system",instruction_ans),
         ("human", "使用者問題: \n\n {question} \n\n 答案: {generation}"),
     ]
 )
