@@ -16,6 +16,8 @@ faiss-cpu = "*"
 python-dotenv = "*"
 langgraph = "*"
 langchain-core = "*"
+fastapi = "*"
+uvicorn = "*"
 
 [dev-packages]
 ipykernel = "*"
