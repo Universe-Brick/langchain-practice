@@ -1,20 +1,21 @@
 from langchain_openai import OpenAIEmbeddings 
-from langchain_community.vectorstores import FAISS
 from langchain_openai import ChatOpenAI 
+
+from langchain_community.vectorstores import FAISS
+from langchain_community.tools.tavily_search import TavilySearchResults
+from langchain_community.chat_message_histories import ChatMessageHistory
 from langchain.chains.combine_documents import create_stuff_documents_chain
 from langchain.chains import create_retrieval_chain
 from langchain.chains import create_history_aware_retriever
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_core.prompts import MessagesPlaceholder
 
-from langchain_community.tools.tavily_search import TavilySearchResults
-from langchain_community.vectorstores import FAISS
 
-from langchain_community.chat_message_histories import ChatMessageHistory
 from langchain_core.chat_history import BaseChatMessageHistory
 from langchain_core.runnables.history import RunnableWithMessageHistory
 
-from langchain_core.pydantic_v1 import BaseModel, Field
+# from langchain_core.pydantic_v1 import BaseModel, Field
+from pydantic import BaseModel, Field
 from typing_extensions import TypedDict
 from typing import List
 from langchain.schema import Document
@@ -23,29 +24,19 @@ from langgraph.graph import END, StateGraph
 
 from langsmith import Client
 import os
-# import getpass
 from dotenv import load_dotenv
 load_dotenv()
-
 
 # Langsmith setup
 client = Client()
 
 # API_key
-def _set_env(var: str):
-    if not os.getenv(var):
-        os.environ[var] = getpass.getpass(f"{var}: ")
-
-
-_set_env("CHATGPT_API_KEY")
-_set_env("TAVILY_API_KEY")
 OPENAI_API_KEY = os.getenv('CHATGPT_API_KEY')
 TAVILY_API_KEY = os.getenv('TAVILY_API_KEY')
 
 ### Web search tool
 web_search_tool = TavilySearchResults()
 
-### Question Router
 # 定義兩個工具的 DataModel
 class web_search(BaseModel):
     """
@@ -85,7 +76,7 @@ question_router = route_prompt | structured_llm_router
 embeddings_model = OpenAIEmbeddings(openai_api_key=OPENAI_API_KEY)
 new_db = FAISS.load_local("faiss_index", embeddings_model,allow_dangerous_deserialization=True)
 
-retriever = new_db.as_retriever()
+retriever = new_db.as_retriever(search_kwargs={"k": 10})
 
 ### RAG responder
 llm_model = ChatOpenAI(openai_api_key=OPENAI_API_KEY,temperature=0, model="gpt-3.5-turbo") 
@@ -279,6 +270,7 @@ def web_search(state):
     web_results = [Document(page_content=d["content"]) for d in docs]
 
     documents = web_results
+    print(documents)
 
     return {"documents": documents, "question": question}
 
@@ -505,8 +497,14 @@ def run(question, session_id):
     # Final generation
     if 'rag_generate' in output.keys():
         print(output['rag_generate']['generation']['answer'])
+        return output['rag_generate']['generation']['answer']
     elif 'plain_answer' in output.keys():
-        print(output['plain_answer']['generation'])
+        print(output['plain_answer']['generation']['answer'])
+        return output['plain_answer']['generation']['answer']
+    
 
 
-run("初級會計學的評分標準?", "陳柏儒")
+
+
+
+
